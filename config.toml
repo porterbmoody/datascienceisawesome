@@ -1,4 +1,4 @@
-title = "Is there no Balm in Gilead?"
+title = "Data Science is Awesome"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
@@ -9,13 +9,6 @@ SectionPagesMenu = "main"
 Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "Is there no Balm in Gilead?"
-    weight = 1
-    contentDir = "content"
-    # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]
   changefreq = "monthly"
