@@ -1,0 +1,3 @@
+[submodule "swag"]
+	path = swag
+	url = https://github.com/porterbmoody/datascienceisawsome.git

@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+*_cache
+*_files
+_main.rds
+_book
+!ga_script.html
+*.rds
+_main.*
+bookdown*
+tmp-pdfcrop-*
+figures
+altair-data-*
+.DS_Store
